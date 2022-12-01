@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(90deg, rgb(189, 236, 228), rgb(255, 255, 255));
+    font-family: "Segoe UI", Verdana, sans-serif;
+}
