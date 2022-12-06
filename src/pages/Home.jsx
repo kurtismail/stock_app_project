@@ -15,7 +15,7 @@ const Home = () => {
 
   return (
     <Box>
-      <Typography variant="h4" color="error" mb={4}>
+      <Typography variant="h4" color="warning" mb={4}>
         Dashboard
       </Typography>
       <KpiCards />
