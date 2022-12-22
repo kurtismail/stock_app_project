@@ -1,4 +1,4 @@
-#stock application example
+#stock application
 
 # Redux Toolkit ..
 ## `Kurulum`
