@@ -13,7 +13,7 @@ function App() {
         main: grey["900"],
       },
       secondary: {
-        main: blueGrey["900"],
+        main: blueGrey["700"],
       },
     },
   });
