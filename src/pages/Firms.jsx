@@ -54,7 +54,7 @@ const Firms = () => {
           backgroundColor: "#2cbee2",
         }}
         onClick={() => setOpen(true)}>
-        New Firm
+        New Firm...
       </Button>
 
       <FirmModal open={open} setOpen={setOpen} info={info} setInfo={setInfo} />
