@@ -1,6 +1,6 @@
 #stock application
 
-# Redux Toolkit ..
+# Redux Toolkit 
 ## `Kurulum`
 ```
 npm install veya yarn
