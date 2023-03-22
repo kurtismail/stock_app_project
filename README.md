@@ -5,7 +5,7 @@
 ```
 npm install veya yarn
 ```
-## `Kullanilan Kutuphaneler`
+## `Kullanilan Kutuphaneler`:
 
 - `@reduxjs/toolkit`
 - `react-redux`
